@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/GPW/static/css/main.21f64ce9.css",
-    "main.js": "/GPW/static/js/main.6e806abd.js",
+    "main.js": "/GPW/static/js/main.87001e8d.js",
     "static/media/Inter_18pt-SemiBold.ttf": "/GPW/static/media/Inter_18pt-SemiBold.d52a01d17b566af4e096.ttf",
     "static/media/Inter_18pt-Regular.ttf": "/GPW/static/media/Inter_18pt-Regular.86c330c66f7333ff6202.ttf",
     "index.html": "/GPW/index.html",
     "main.21f64ce9.css.map": "/GPW/static/css/main.21f64ce9.css.map",
-    "main.6e806abd.js.map": "/GPW/static/js/main.6e806abd.js.map"
+    "main.87001e8d.js.map": "/GPW/static/js/main.87001e8d.js.map"
   },
   "entrypoints": [
     "static/css/main.21f64ce9.css",
-    "static/js/main.6e806abd.js"
+    "static/js/main.87001e8d.js"
   ]
 }
