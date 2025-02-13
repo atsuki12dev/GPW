@@ -6,6 +6,8 @@ function MazitovAA() {
   return (
     <div className={styles.root}>
         текст
+        текст
+        текст
     </div>
   )
 }
