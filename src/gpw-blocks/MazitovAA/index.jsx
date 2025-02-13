@@ -8,6 +8,7 @@ function MazitovAA() {
         текст
         текст
         текст
+        текст
     </div>
   )
 }
