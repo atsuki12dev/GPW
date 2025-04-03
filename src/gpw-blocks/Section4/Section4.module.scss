@@ -1,0 +1,16 @@
+.root{
+    :global{
+        display: flex;
+        height: 1173px;
+        align-items: center;
+        justify-content: center;
+
+        p{
+            font-family: 'Gerhaus';
+            font-size: 40px;
+            line-height: 50px;
+            color: #fff;
+            text-align: center;
+        }
+    }
+}

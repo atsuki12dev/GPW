@@ -1,0 +1,43 @@
+.root{
+    :global{
+        margin-top: 300px;
+        margin-left: 91px;
+        display: flex;
+        flex-direction: row;
+        gap: 223px;
+
+        .col1{
+            img:nth-of-type(1){
+                position: absolute;
+                z-index: -1;
+                margin-left: 69px;
+                margin-top: -34px;
+            }
+            img:nth-of-type(3){
+                position: absolute;
+                z-index: 1;
+                margin-left: -484px;
+                margin-top: 470px;
+            }
+        }
+        .col2{
+            display: flex;
+            flex-direction: column;
+            gap: 70px;
+
+            h1{
+                font-family: 'Widock TRIAL';
+                font-size: 48px;
+                line-height: 56px;
+                color: #fff;
+            }
+            p{
+                width: 784px;
+                font-family: 'Kreadon';
+                font-size: 24px;
+                line-height: 30px;
+                color: #fff;
+            }
+        }
+    }
+}

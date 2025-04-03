@@ -1,0 +1,15 @@
+.root{
+    :global{
+        height: 156px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: rgba(93, 0, 0, 1);
+
+        p{
+            font-family: 'Kreadon';
+            font-size: 24px;
+            color: #fff;
+        }
+    }
+}

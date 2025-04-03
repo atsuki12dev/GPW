@@ -1,0 +1,28 @@
+.root{
+    :global{
+        margin-top: 285px;
+        margin-left: 137px;
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+
+        h1{
+            font-family: 'Widock TRiAL';
+            font-size: 48px;
+            color: #fff;
+        }
+        .row{
+            display: flex;
+            flex-direction: row;
+            gap: 46.5px;
+
+            img:nth-of-type(2){
+                height: 378px;
+                transition: 1s;
+            }
+            img:nth-of-type(2):active{
+                transform: translateX(-350px) scale(2);
+            }
+        }
+    }
+}
