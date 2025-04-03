@@ -1,15 +1,44 @@
 {
   "files": {
-    "main.css": "/GPW/static/css/main.21f64ce9.css",
-    "main.js": "/GPW/static/js/main.199dacc2.js",
-    "static/media/Inter_18pt-SemiBold.ttf": "/GPW/static/media/Inter_18pt-SemiBold.d52a01d17b566af4e096.ttf",
-    "static/media/Inter_18pt-Regular.ttf": "/GPW/static/media/Inter_18pt-Regular.86c330c66f7333ff6202.ttf",
+    "main.css": "/GPW/static/css/main.59eea7f3.css",
+    "main.js": "/GPW/static/js/main.dc878a8e.js",
+    "static/media/WOW5-img.png": "/GPW/static/media/WOW5-img.a5446271ab308d447945.png",
+    "static/media/Section3-img5.png": "/GPW/static/media/Section3-img5.bd9461f7c9e6bcfcfe30.png",
+    "static/media/Section2-img.png": "/GPW/static/media/Section2-img.3df51d5585c500f6738f.png",
+    "static/media/Section3-img6.png": "/GPW/static/media/Section3-img6.e4c37d8be7fe4e00cfc6.png",
+    "static/media/WOW9-img3.png": "/GPW/static/media/WOW9-img3.c4b24da96f7d81e13982.png",
+    "static/media/WOW9-img2.png": "/GPW/static/media/WOW9-img2.dbf934287586145ccee1.png",
+    "static/media/WOW10-img.png": "/GPW/static/media/WOW10-img.9855923cbff88f66568b.png",
+    "static/media/WOW12-img.png": "/GPW/static/media/WOW12-img.5d638cfd3b961a595499.png",
+    "static/media/WOW7-img.png": "/GPW/static/media/WOW7-img.c9d155d48253703f17c8.png",
+    "static/media/WOW8-img.png": "/GPW/static/media/WOW8-img.fd46fa96d24b147ce04f.png",
+    "static/media/Section3-img1.png": "/GPW/static/media/Section3-img1.4e2ae88c567ccc31397a.png",
+    "static/media/Section3-img4.png": "/GPW/static/media/Section3-img4.007cd81c15b17508f108.png",
+    "static/media/Section1-banner.jpg": "/GPW/static/media/Section1-banner.8429bca8c7f79087f110.jpg",
+    "static/media/WOW11-img.png": "/GPW/static/media/WOW11-img.5708137498092d7d22a5.png",
+    "static/media/WOW1-img.png": "/GPW/static/media/WOW1-img.961b5454b89a982682d2.png",
+    "static/media/WOW4-img.png": "/GPW/static/media/WOW4-img.4e1f16a4daed87806207.png",
+    "static/media/WOW2-img.png": "/GPW/static/media/WOW2-img.6a73ea35136116e70426.png",
+    "static/media/WOW14-img.png": "/GPW/static/media/WOW14-img.a489fb94805c671ed00a.png",
+    "static/media/WOW6-img2.png": "/GPW/static/media/WOW6-img2.ee926ae21ece41ac4d57.png",
+    "static/media/WOW9-img1.png": "/GPW/static/media/WOW9-img1.447b1e07c2e428b55a98.png",
+    "static/media/WOW15-img.png": "/GPW/static/media/WOW15-img.1e54a553333e37fd95f6.png",
+    "static/media/WOW13-img.png": "/GPW/static/media/WOW13-img.0fc6670f3d433cc6ae8e.png",
+    "static/media/Section2-banner.png": "/GPW/static/media/Section2-banner.87e5dcee5c445dd37641.png",
+    "static/media/Section3-img3.png": "/GPW/static/media/Section3-img3.ada06e7b0435f0d206f1.png",
+    "static/media/Section3-img2.png": "/GPW/static/media/Section3-img2.c21319d5347616ca3f45.png",
+    "static/media/WOW6-img1.png": "/GPW/static/media/WOW6-img1.104228b0321bfb5c6133.png",
+    "static/media/WOW3-img.png": "/GPW/static/media/WOW3-img.c485038c123f894d6276.png",
+    "static/media/Gerhaus.ttf": "/GPW/static/media/Gerhaus.4d1df41443ecdd4d7898.ttf",
+    "static/media/Kreadon-Regular.ttf": "/GPW/static/media/Kreadon-Regular.7f574e9f40490495bb87.ttf",
+    "static/media/WOW5-dec.png": "/GPW/static/media/WOW5-dec.8c3d050cd4c799719f37.png",
+    "static/media/WidockTRIALBold.otf": "/GPW/static/media/WidockTRIALBold.99122f732f23478e0673.otf",
     "index.html": "/GPW/index.html",
-    "main.21f64ce9.css.map": "/GPW/static/css/main.21f64ce9.css.map",
-    "main.199dacc2.js.map": "/GPW/static/js/main.199dacc2.js.map"
+    "main.59eea7f3.css.map": "/GPW/static/css/main.59eea7f3.css.map",
+    "main.dc878a8e.js.map": "/GPW/static/js/main.dc878a8e.js.map"
   },
   "entrypoints": [
-    "static/css/main.21f64ce9.css",
-    "static/js/main.199dacc2.js"
+    "static/css/main.59eea7f3.css",
+    "static/js/main.dc878a8e.js"
   ]
 }
