@@ -22,6 +22,8 @@ import WOW12 from './gpw-blocks/WOW12';
 import WOW13 from './gpw-blocks/WOW13';
 import WOW14 from './gpw-blocks/WOW14';
 import WOW15 from './gpw-blocks/WOW15';
+import WOW16 from './gpw-blocks/WOW16';
+import WOW17 from './gpw-blocks/WOW17';
 
 function App() {
   return (
@@ -47,6 +49,8 @@ function App() {
         <WOW13 />
         <WOW14 />
         <WOW15 />
+        <WOW16 />
+        <WOW17 />
       </div>
 
       <Footer />
