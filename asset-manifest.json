@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/GPW/static/css/main.59eea7f3.css",
-    "main.js": "/GPW/static/js/main.dc878a8e.js",
+    "main.css": "/GPW/static/css/main.55618dee.css",
+    "main.js": "/GPW/static/js/main.0db85bed.js",
     "static/media/WOW5-img.png": "/GPW/static/media/WOW5-img.a5446271ab308d447945.png",
     "static/media/Section3-img5.png": "/GPW/static/media/Section3-img5.bd9461f7c9e6bcfcfe30.png",
     "static/media/Section2-img.png": "/GPW/static/media/Section2-img.3df51d5585c500f6738f.png",
@@ -31,14 +31,16 @@
     "static/media/WOW3-img.png": "/GPW/static/media/WOW3-img.c485038c123f894d6276.png",
     "static/media/Gerhaus.ttf": "/GPW/static/media/Gerhaus.4d1df41443ecdd4d7898.ttf",
     "static/media/Kreadon-Regular.ttf": "/GPW/static/media/Kreadon-Regular.7f574e9f40490495bb87.ttf",
+    "static/media/WOW17-img.jpg": "/GPW/static/media/WOW17-img.6bb902d51f79ceb95ff5.jpg",
     "static/media/WOW5-dec.png": "/GPW/static/media/WOW5-dec.8c3d050cd4c799719f37.png",
     "static/media/WidockTRIALBold.otf": "/GPW/static/media/WidockTRIALBold.99122f732f23478e0673.otf",
+    "static/media/WOW16-img.jpg": "/GPW/static/media/WOW16-img.4fb4d9a1020b1c4b56b2.jpg",
     "index.html": "/GPW/index.html",
-    "main.59eea7f3.css.map": "/GPW/static/css/main.59eea7f3.css.map",
-    "main.dc878a8e.js.map": "/GPW/static/js/main.dc878a8e.js.map"
+    "main.55618dee.css.map": "/GPW/static/css/main.55618dee.css.map",
+    "main.0db85bed.js.map": "/GPW/static/js/main.0db85bed.js.map"
   },
   "entrypoints": [
-    "static/css/main.59eea7f3.css",
-    "static/js/main.dc878a8e.js"
+    "static/css/main.55618dee.css",
+    "static/js/main.0db85bed.js"
   ]
 }
