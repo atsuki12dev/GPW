@@ -5,3 +5,15 @@
     margin: auto;
     width: 1728px;
 }
+
+@media(max-width: 390px){
+    html{
+        width: 390px;
+    }
+    body{
+        width: 390px;
+    }
+    .container{
+        width: 390px;
+    }
+}

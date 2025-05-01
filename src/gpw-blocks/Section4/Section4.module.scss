@@ -14,3 +14,19 @@
         }
     }
 }
+
+@media(max-width: 390px){
+    .root{
+        :global{
+            width: 390px;
+            padding: 0;
+            height: 500px;
+
+            p{
+                font-size: 30px;
+                line-height: 30px;
+                width: 300px;
+            }
+        }
+    }
+}

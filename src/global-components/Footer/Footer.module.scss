@@ -13,3 +13,15 @@
         }
     }
 }
+
+@media(max-width: 390px){
+    .root{
+        :global{
+            width: 390px;
+
+            p{
+                text-align: center;
+            }
+        }
+    }
+}

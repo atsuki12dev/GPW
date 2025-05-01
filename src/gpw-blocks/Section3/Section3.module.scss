@@ -32,3 +32,31 @@
         }
     }
 }
+
+@media(max-width: 390px){
+    .root{
+        :global{
+            width: 390px;
+            padding: 30px;
+            
+            .row1{
+                flex-direction: column;
+
+                .col1{
+                    p{
+                        font-size: 48px;
+                        line-height: 48px;
+                    }
+                }
+                .col2{
+                    img{
+                        width: 330px;
+                    }
+                }
+            }
+            .row2{
+                flex-direction: column;
+            }
+        }
+    }
+}
