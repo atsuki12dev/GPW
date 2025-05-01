@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/GPW/static/css/main.55618dee.css",
-    "main.js": "/GPW/static/js/main.ea42adf1.js",
+    "main.css": "/GPW/static/css/main.4393a15a.css",
+    "main.js": "/GPW/static/js/main.7a93533b.js",
     "static/media/WOW5-img.png": "/GPW/static/media/WOW5-img.a5446271ab308d447945.png",
     "static/media/Section3-img5.png": "/GPW/static/media/Section3-img5.bd9461f7c9e6bcfcfe30.png",
     "static/media/Section2-img.png": "/GPW/static/media/Section2-img.3df51d5585c500f6738f.png",
@@ -36,11 +36,11 @@
     "static/media/WidockTRIALBold.otf": "/GPW/static/media/WidockTRIALBold.99122f732f23478e0673.otf",
     "static/media/WOW16-img.jpg": "/GPW/static/media/WOW16-img.4fb4d9a1020b1c4b56b2.jpg",
     "index.html": "/GPW/index.html",
-    "main.55618dee.css.map": "/GPW/static/css/main.55618dee.css.map",
-    "main.ea42adf1.js.map": "/GPW/static/js/main.ea42adf1.js.map"
+    "main.4393a15a.css.map": "/GPW/static/css/main.4393a15a.css.map",
+    "main.7a93533b.js.map": "/GPW/static/js/main.7a93533b.js.map"
   },
   "entrypoints": [
-    "static/css/main.55618dee.css",
-    "static/js/main.ea42adf1.js"
+    "static/css/main.4393a15a.css",
+    "static/js/main.7a93533b.js"
   ]
 }
